@@ -1,2 +1,9 @@
-# Bootstrap-Portfolio
-HW#2 Bootstrap Portfolio
+# Bootstrap Portfolio
+
+### Description
+Please check out my personal portfolio utilizing Bootstrap.
+
+### Languages and Tools Used
+* HTML
+* CSS
+* Bootstrap
